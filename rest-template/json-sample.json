@@ -1,0 +1,39 @@
+[
+  {
+    "member": {
+      "id": 772232,
+      "name": "Aleksey M.",
+      "photo": {
+        "id": 5537770,
+        "highres_link": "https://secure.meetupstatic.com/photos/member/4/5/6/a/highres_5537770.jpeg",
+        "photo_link": "https://secure.meetupstatic.com/photos/member/4/5/6/a/member_5537770.jpeg",
+        "thumb_link": "https://secure.meetupstatic.com/photos/member/4/5/6/a/thumb_5537770.jpeg",
+        "type": "member",
+        "base_url": "https://secure.meetupstatic.com"
+      },
+      "event_context": {
+        "host": false
+      }
+    },
+    "rsvp": {
+      "id": 1760569822,
+      "response": "yes",
+      "guests": 0,
+      "updated": 1547715268000
+    }
+  },
+  {
+  "member": {
+    "id": 270805755,
+    "name": "Alex O.",
+    "event_context": {
+      "host": false
+    }
+  },
+  "rsvp": {
+    "id": 1763776008,
+    "response": "yes",
+    "guests": 0,
+    "updated": 1547715214000
+  }
+},
